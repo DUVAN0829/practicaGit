@@ -10,9 +10,9 @@ body {
     background-color: var(--blanco);
 }
 
-body {
-    background-color: #c0bdbd;
-    position: relative;
+main {
+    background-color: #dbdbdb;
+    position: absolute;
     margin: 20px;
     border-radius: 5px;
 
