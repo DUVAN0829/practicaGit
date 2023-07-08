@@ -1,5 +1,17 @@
-:root{
-    --blanco:#fff;
-    --negro:#000;
-    --fuente-principal:'Noto Serif', serif;
+:root {
+    --blanco: #fff;
+    --negro: #000;
+    --fuente-principal: 'Noto Serif', serif;
+}
+
+body {
+    background-color: var(--blanco);
+}
+
+body {
+    background-color: #c0bdbd;
+    position: relative;
+    margin: 20px;
+    border-radius: 5px;
+
 }
